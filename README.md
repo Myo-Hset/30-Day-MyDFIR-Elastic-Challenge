@@ -68,7 +68,7 @@ This Projecte demonstrates the my 30-Day MyDFIR Elastic Challenge, a hands-on SO
 
   <img width="1911" height="904" alt="image" src="https://github.com/user-attachments/assets/7ce14a71-49f3-4068-820e-7ec649442f6b" />
 
-* ** Image 4** : Successfully brute‑forced RDP access to a Windows Server using Hydra on Kali Linux (VMware).
+* **Image 4** : Successfully brute‑forced RDP access to a Windows Server using Hydra on Kali Linux (VMware).
 
   <img width="939" height="85" alt="Screenshot 2026-01-18 193810" src="https://github.com/user-attachments/assets/250fc889-efc7-421d-9e74-fe9d8926b649" />
 
