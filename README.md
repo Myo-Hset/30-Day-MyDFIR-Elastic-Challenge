@@ -23,7 +23,7 @@ This Projecte demonstrates the my 30-Day MyDFIR Elastic Challenge, a hands-on SO
 -  Sysmon
 -  Mythic C2
 -  Kali Linux
--  Ubuntu Server 24.04
+-  Ubuntu Server 22.04
 -  Windows Server 2022
 -  Remmina
 -  Hydra 
