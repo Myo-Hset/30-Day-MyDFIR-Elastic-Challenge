@@ -72,9 +72,12 @@ This Projecte demonstrates the my 30-Day MyDFIR Elastic Challenge, a hands-on SO
 
   <img width="846" height="648" alt="Screenshot 2026-01-18 194045" src="https://github.com/user-attachments/assets/9f458fbf-2d39-4237-9cda-721564e78aef" />
 
-* **Image 6** : The Mythic C2 dashboard displays active callbacks originating from the compromised Windows Server endpoint and detected on SIEM.
+* **Image 6** : The Mythic C2 dashboard displays active callbacks originating from the compromised Windows Server endpoint.
 
   <img width="1670" height="912" alt="Screenshot 2026-01-18 221124" src="https://github.com/user-attachments/assets/9225d961-2935-41e3-8698-56c33ee57ed4" />
+
+ 
+* **Image 7** : Detecting a running C2 agent in a SIEM.
 
   <img width="1907" height="907" alt="Screenshot 2026-01-18 221535" src="https://github.com/user-attachments/assets/bb96c5c0-c967-4711-8603-778df27f3f03" />
 
