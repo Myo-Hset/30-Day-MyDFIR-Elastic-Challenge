@@ -54,7 +54,7 @@ This Projecte demonstrates the my 30-Day MyDFIR Elastic Challenge, a hands-on SO
 • Cloud-based SOC lab deployment
 
 
-### Image & Lab Exercise
+### Lab Exercise
 
 * **Image 1** : Vultr cloud dashboard displaying the running lab infrastructure (ELK server, Fleet Server, Linux/Mythic server, and Windows Server).
 
